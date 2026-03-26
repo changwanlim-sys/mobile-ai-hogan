@@ -1,0 +1,16 @@
+{
+  "name": "AI Hogan – 벤 호건 스윙 분석",
+  "short_name": "AI Hogan",
+  "description": "벤 호건 5원칙 기반 AI 골프 스윙 분석 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a2e1a",
+  "theme_color": "#0a2e1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "categories": ["sports", "health"],
+  "lang": "ko"
+}
